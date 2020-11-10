@@ -11,6 +11,7 @@ import androidx.recyclerview.widget.RecyclerView
 
 class MainActivity : AppCompatActivity() {
 
+    //add git
     companion object{
         val basicList = arrayListOf("Ala","Ola","Ewa","Jan")
         val redoList = arrayListOf<String>()

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerAplication</string>
+    <string name="refresh">delete last</string>
+    <string name="add_item">redo item</string>
+    <string name="textForInfoBt">wybrano przycisk informacji</string>
+    <string name="textForCloseBt">wybrano przycisk zamykania aplikacji</string>
+</resources>
